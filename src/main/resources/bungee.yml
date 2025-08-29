@@ -1,0 +1,5 @@
+name: FlorestTelegramPro Bungeecord
+version: '1.0-alpha'
+main: ru.florestdev.florestTelegramProBungeecord.FlorestTelegramProBungeecord
+author: FlorestDev
+description: FTP's remake for the Bungeecord Proxy MC Server!

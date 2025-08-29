@@ -1,0 +1,10 @@
+telegram_bot_token: "test-token"
+telegram_chat_id: "write-your-group-or-chat-id"
+message_format: "{user} ({server_name}) -> {message}"
+
+bungee_on_message: "Server is started. Come to us!"
+bungee_off_message: "Server was disabled. Was online: {online}"
+
+enable_players_tracking: false
+on_player_join_msg: "{user} joined the {server_name} server!"
+on_player_quit_msg: "{user} quited the {server_name} server."
